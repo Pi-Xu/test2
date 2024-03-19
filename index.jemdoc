@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang
+== Zhou Fan
 
 ~~~
-{}{img_left}{photos/bio4.jpeg}{alt text}{326px}{245px}
-[https://jshang2.github.io Jin Shang], Ph.D. \n 
+{}{img_left}{photos/citations.jpeg}{alt text}{326px}{245px}
+[test Zhou Fan], Ph.D. \n 
 Applied Scientist II at [https://www.amazon.com/ Amazon] \n
 Arlington, Virginia, United States \n
 \n
@@ -37,10 +37,4 @@ I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientis
 - Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
 - Data Mining, Information Retrieval, Recommender System 
 - Computer Vision, Computer Graphics, Natural Language Processing
-
-== Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
-~~~
 
